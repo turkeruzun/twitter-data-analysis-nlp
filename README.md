@@ -1,2 +1,4 @@
 # twitter-data-analysis-nlp
-Analyzing Twits Sentiment Using NLP
+Analyzing Tweets Sentiment Using NLP
+Top topics find LDA model and visualize
+Regex, tokenize, lemmatize, similar words etc.

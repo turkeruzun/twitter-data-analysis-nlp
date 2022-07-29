@@ -100,7 +100,7 @@ git clone https://github.com/turkeruzun/twitter-data-analysis-nlp.git
 
 ### Need help?
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@turkeruzun&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/turkeruzun/) [![WP](https://img.shields.io/static/v1.svg?label=Visit&message=turkeruzun.com.tr&color=9cf&logo=wordpress&style=flat&logoColor=white&colorA=informational)](https://turkeruzun.com.tr)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@turkeruzun&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/turkeruzun/) [![WP](https://img.shields.io/static/v1.svg?label=Visit&message=turkeruzun.com.tr&color=9cf&logo=wordpress&style=flat&logoColor=white&colorA=informational)](http://turkeruzun.com.tr)
 
 ### License
 

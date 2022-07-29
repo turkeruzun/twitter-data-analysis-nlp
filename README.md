@@ -10,6 +10,8 @@
 
 This study, analyze on Twitter data related to eating habits in April 2020. The data aims to reveal the effect of new information affected by Covid-19 on diet-related patterns among Twitter users during the pandemic. Sentiment analysis through frequently used words and on ngrams and explores the causal link between information-led society and attitude shifts during the pandemic in cyberspace.
 
+This coding was done in the Social Comquant 2022 Summer School adventure in collaboration with @kucuniversity @socialcomquant @gesis_org. [socialcomquant](https://twitter.com/socialcomquant)
+
 ## Installation Packages
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.

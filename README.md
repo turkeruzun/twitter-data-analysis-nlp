@@ -2,9 +2,9 @@
 
 [![Generic badge](https://img.shields.io/badge/Datascience-Beginners-Red.svg?style=for-the-badge)](https://github.com/turkeruzun/twitter-data-analysis-nlp) [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turkeruzun)
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Twitter-Data-Analysis.svg?logo=github&style=social)](https://github.com/turkeruzun) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Twitter-Data-Analysis.svg?logo=git&style=social){alt="GitHub code size in bytes"}](https://github.com/turkeruzun)![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Twitter-Data-Analysis.svg?logo=python&style=social){alt="Jupyter Notebook"}
+[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Twitter-Data-Analysis.svg?logo=github&style=social)](https://github.com/turkeruzun) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Twitter-Data-Analysis.svg?logo=git&style=social)](https://github.com/turkeruzun)![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Twitter-Data-Analysis.svg?logo=python&style=social)
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg){alt="Made with Python"}](http://turkeruzun.com.tr/kategori/veri-analizi/)
+[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](http://turkeruzun.com.tr/kategori/veri-analizi/)
 
 # SUMMARY
 

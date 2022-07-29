@@ -81,7 +81,8 @@ import matplotlib.pyplot as plt
 
 # EMOJIES SENTIMENT ANALYZE
 
-![](emoji%20sent%20analyze1.png)
+![](images/emoji%20sent%20analyze1.png)
+![](images/emoji%20sent%20analyze2.png)
 
 # Contributing
 
